@@ -1,0 +1,26 @@
+{ "type": "MESSAGE",
+  "eventTime": "2019-03-02T13:41:20.014271Z",
+  "token": "to-be-defined-later",
+  "message":
+   { "name": "spaces/4LWz7AAAAAE/messages/qngVi-pOaRk.qngVi-pOaRk",
+     "sender":
+      { "name": "users/107862744094680905769",
+        "displayName": "Luke Skywalker",
+        "avatarUrl": "https://lh3.googleusercontent.com/a-/AAuE7mBqmzys4iF_kBj2aTai5bn1gnyn1V0aiBok_XdYdA",
+        "email": "luke@skywalker.com",
+        "type": "HUMAN" },
+     "createTime": "2019-03-02T13:41:20.014271Z",
+     "text": "hello",
+     "thread":
+      { "name": "spaces/4LWz7AAAAAE/threads/qngVi-pOaRk",
+        "retentionSettings": [] },
+     "space": { "name": "spaces/4LWz7AAAAAE", "type": "DM" },
+     "argumentText": "hello" },
+  "user":
+   { "name": "users/107862744094680905769",
+     "displayName": "Luke Skywalker",
+     "avatarUrl": "https://lh3.googleusercontent.com/a-/AAuE7mBqmzys4iF_kBj2aTai5bn1gnyn1V0aiBok_XdYdA",
+     "email": "luke@skywalker.com",
+     "type": "HUMAN" },
+  "space": { "name": "spaces/4LWz7AAAAAE", "type": "DM" },
+  "configCompleteRedirectUrl": "https://chat.google.com/api/bot_config_complete?token=AClqJQSoAUOEviSTHDqYJCi70H4oPg00a2BTgdGIErTnfXAtUx_FpXLSmEiaVUlHxk6rubV5-BijE2tRO1Xb6_jPHAreM7pE8aiRlUBTadgS-B2ziD_dLUl8xHydCt7NzezIvJPVMh8JXi7dF6j8" }
